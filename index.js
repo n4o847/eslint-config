@@ -16,11 +16,11 @@ module.exports = {
   ],
   parser: "@typescript-eslint/parser",
   parserOptions: {
+    ecmaVersion: "latest",
+    sourceType: "module",
     ecmaFeatures: {
       jsx: true,
     },
-    ecmaVersion: "latest",
-    sourceType: "module",
   },
   plugins: ["import", "react", "@typescript-eslint"],
   rules: {
