@@ -1,7 +1,8 @@
 /** @type {import("eslint").Linter.Config} */
-const config = {
+module.exports = {
   env: {
     browser: true,
+    node: true,
     es2021: true,
   },
   extends: [
@@ -32,5 +33,3 @@ const config = {
     ],
   },
 };
-
-module.exports = config;
