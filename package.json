@@ -2,14 +2,16 @@
   "name": "@n4o847/eslint-config",
   "version": "0.1.0",
   "description": "",
+  "homepage": "https://github.com/n4o847/eslint-config#readme",
   "license": "MIT",
   "author": "n4o847 <npm@n4o847.com> (https://n4o847.com/)",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/n4o847/eslint-config"
+    "url": "https://github.com/n4o847/eslint-config.git"
   },
   "scripts": {},
+  "dependencies": {},
   "devDependencies": {
     "@types/eslint": "^8.4.6",
     "@typescript-eslint/eslint-plugin": "^5.37.0",
