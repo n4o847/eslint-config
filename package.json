@@ -1,0 +1,34 @@
+{
+  "name": "@n4o847/eslint-config",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "author": "n4o847 <npm@n4o847.com> (https://n4o847.com/)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n4o847/eslint-config"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "@types/eslint": "^8.4.6",
+    "@typescript-eslint/eslint-plugin": "^5.37.0",
+    "@typescript-eslint/parser": "^5.37.0",
+    "eslint": "^8.23.1",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-react": "^7.31.8",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.7.1"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.37.0",
+    "@typescript-eslint/parser": "^5.37.0",
+    "eslint": "^8.23.1",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-react": "^7.31.8",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.7.1"
+  }
+}
