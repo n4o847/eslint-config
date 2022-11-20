@@ -1,5 +1,7 @@
 # @n4o847/eslint-config
 
+[![npm version](https://badge.fury.io/js/@n4o847%2Feslint-config.svg)](https://badge.fury.io/js/@n4o847%2Feslint-config)
+
 ## Installation
 
 ```bash
